@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    height: 100vh;
+    color: white;
+    background-color: #000; /* fallback */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .weather-app {
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+    padding: 20px 30px;
+    border-radius: 10px;
+    max-width: 400px;
+  }
+  
